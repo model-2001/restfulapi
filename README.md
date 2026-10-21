@@ -101,3 +101,38 @@ https://github.com/suruthisagar2007/restfulapi
 ## Important Note
 
 Student records are stored in an in-memory JavaScript array. Data resets when the server restarts.
+
+
+
+
+
+
+
+
+prompt:
+Create a complete website for the following practical exam question:
+
+[PASTE QUESTION HERE]
+
+Requirements:
+
+1. Create a simple frontend using the technology specified in the question.
+2. Create a backend with REST API.
+3. Connect the database if required.
+4. Implement all necessary operations:
+   - GET – View all records
+   - GET /:id – Search by ID
+   - POST – Add new record
+   - PUT /:id – Update record
+   - DELETE /:id – Delete record
+5. Connect frontend buttons and forms to the corresponding API endpoints.
+6. Display all API URLs and their HTTP methods.
+7. Provide sample JSON for testing in Postman.
+8. Use minimum lines of code with proper spacing.
+9. Keep the website very simple, without fancy CSS, animations or unnecessary files.
+10. Give step-by-step VS Code terminal commands to install dependencies and run the application.
+11. Provide sample input and expected output.
+12. Ensure the application runs without errors.
+
+IMPORTANT:
+Follow the exact question. Do not add unnecessary features. Make the code beginner-friendly and easy to explain during viva.
